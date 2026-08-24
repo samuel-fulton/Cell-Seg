@@ -12,9 +12,7 @@ Neural network initiation, training, and testing are contained within the Jupyte
 
 -CUDA
 
--Python
-
--VSCode (recommended)
+-Python3
 
 For setting up Cuda, visit:
 https://www.youtube.com/watch?v=r7Am-ZGMef8
